@@ -17,4 +17,4 @@ clf.predict([0.5, 2])
 >>> [1]
 ```
 ## Dependencies 
-1. [Numpy](http://www.numpy.org/) A fundamental package for scientific computing with Python.
+1. [Numpy](http://www.numpy.org/) : A fundamental package for scientific computing with Python.
