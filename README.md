@@ -1,6 +1,7 @@
 # Electrostatic Classifier
 A classifier inspired by electrostatics. A demo can be found [here](https://prajwalsouza.github.io/Experiments/Binary-Classification.html).  
-![alt text](https://github.com/prajwalsouza/Electrostatic-Classifier/blob/master/Images/demo.png "A binary classification demo")
+
+[![A binary classification demo](https://github.com/prajwalsouza/Electrostatic-Classifier/blob/master/Images/demo.png "A binary classification demo")](https://prajwalsouza.github.io/Experiments/Binary-Classification.html)
 ## Usage
 ```python
 from classifier import ElectroStaticClassifier
@@ -16,4 +17,4 @@ clf.predict([0.5, 2])
 >>> [1]
 ```
 ## Dependencies 
-1. [Numpy](http://www.numpy.org/)
+1. [Numpy](http://www.numpy.org/) A fundamental package for scientific computing with Python.
